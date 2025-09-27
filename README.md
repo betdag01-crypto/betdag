@@ -1,7 +1,5 @@
 # BetDAG 🎯
 
-![BetDAG Logo](/frontend/public/BetDAG%20logo.png)
-
 ## Cryptocurrency Prediction Market Platform
 
 BetDAG is an innovative AI-powered prediction market platform built on BlockDAG technology that allows users to make and bet on cryptocurrency price predictions. This project was created for the BlockDAG Hackathon with the theme "Prediction Markets".
@@ -127,6 +125,9 @@ BetDAG/
 ## 🏆 BlockDAG Hackathon
 
 This project was developed for the BlockDAG Hackathon, focusing on creating an innovative prediction market platform that leverages the unique features of BlockDAG technology for enhanced security, transparency, and scalability.
+
+## Pitch Deck
+https://www.figma.com/slides/uYhFYZtioSn7Kj9QHPOZSD/Untitled?node-id=1-88&t=Jk0Wey3xIwaafgqr-1
 
 ## 📄 License
 
