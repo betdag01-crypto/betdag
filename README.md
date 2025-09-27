@@ -129,6 +129,9 @@ This project was developed for the BlockDAG Hackathon, focusing on creating an i
 ## Pitch Deck
 https://www.figma.com/slides/uYhFYZtioSn7Kj9QHPOZSD/Untitled?node-id=1-88&t=Jk0Wey3xIwaafgqr-1
 
+## Demo Video
+https://youtu.be/sF2wHivdu_U
+
 ## 📄 License
 
 [MIT License](LICENSE)
