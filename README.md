@@ -126,6 +126,9 @@ BetDAG/
 
 This project was developed for the BlockDAG Hackathon, focusing on creating an innovative prediction market platform that leverages the unique features of BlockDAG technology for enhanced security, transparency, and scalability.
 
+## Figma Design
+https://www.figma.com/design/RBHsGvfo1qImoKiQLs0fWH/Untitled?node-id=11-74&t=UMMowp2lmcrtxZPn-0
+
 ## Pitch Deck
 https://www.figma.com/slides/uYhFYZtioSn7Kj9QHPOZSD/Untitled?node-id=1-88&t=Jk0Wey3xIwaafgqr-1
 
